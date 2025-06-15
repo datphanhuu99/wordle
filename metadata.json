@@ -1,0 +1,6 @@
+{
+  "name": "WordGuesser Game",
+  "description": "A Wordle-like game where users can define the word length and a custom list of words to guess from. Provides feedback on correct letters and positions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
